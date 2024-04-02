@@ -1,0 +1,6 @@
+/Users/sonya/Documents/UF Classes/Spring 2024/Software Enterprise/esep-webhooks/src/webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.deps.json
+/Users/sonya/Documents/UF Classes/Spring 2024/Software Enterprise/esep-webhooks/src/webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.runtimeconfig.json
+/Users/sonya/Documents/UF Classes/Spring 2024/Software Enterprise/esep-webhooks/src/webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
+/Users/sonya/Documents/UF Classes/Spring 2024/Software Enterprise/esep-webhooks/src/webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/Users/sonya/Documents/UF Classes/Spring 2024/Software Enterprise/esep-webhooks/src/webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/sonya/Documents/UF Classes/Spring 2024/Software Enterprise/esep-webhooks/src/webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll
